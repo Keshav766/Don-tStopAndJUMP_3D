@@ -12,6 +12,7 @@ public class ObstacleMovement : MonoBehaviour
     void Start()
     {
         playerControllerScript = GameObject.Find("Player").GetComponent<PlayerController>();
+        
     }
 
 
