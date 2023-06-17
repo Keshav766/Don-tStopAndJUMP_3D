@@ -21,7 +21,7 @@
             {
                 "type": "System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
                 "key": "buildOutputDirList",
-                "value": "{\"m_Value\":\"C:/Users/kesha/Desktop/New folder;;;;;;;;;\"}"
+                "value": "{\"m_Value\":\"E:/UNITY/Don-tStopAndJUMP_3D/Prototype 3/WebGL Builds;E:/UNITY/Don-tStopAndJUMP_3D/Prototype 3/WebGL Build(Android);C:/Users/kesha/Desktop/temp;E:/UNITY/Don-tStopAndJUMP_3D/Prototype 3/WebGL Builds/Build;C:/Users/kesha/Desktop/New folder;;;;;\"}"
             }
         ]
     }

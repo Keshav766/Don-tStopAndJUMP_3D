@@ -117,9 +117,10 @@ MonoBehaviour:
   cameraAudio: {fileID: 0}
   jumpSound: {fileID: 8300000, guid: 08ab7053d586c458db3774d33c141a4b, type: 3}
   crashSound: {fileID: 8300000, guid: 913d6445ee8cc4152a9c18da590ee203, type: 3}
+  restartButton: {fileID: 0}
   jumpForce: 20
   gravityModifier: 7
-  isOnGround: 1
+  isOnGround: 0
   gameOver: 0
   doubleJump: 0
 --- !u!82 &6500297714404950574
